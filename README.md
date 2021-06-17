@@ -5,4 +5,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsdhsdb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[💝My Notion💝](https://www.notion.so/b54c13518b2848beac4be591bd70b8c0)
+[💝My PortFolio💝](https://www.notion.so/onyoo/Onyoo-s-Portfolio-05ec09e08d184c09aea1b0c140839117)
