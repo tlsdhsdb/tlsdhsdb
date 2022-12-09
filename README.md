@@ -37,7 +37,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://onyoo.notion.site/Onyoo-s-Portfolio-05ec09e08d184c09aea1b0c140839117">
+	<a href="https://dev-oy.notion.site/Portfolio-05ec09e08d184c09aea1b0c140839117">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="https://velog.io/@dhsdb02">
