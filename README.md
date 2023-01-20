@@ -48,8 +48,6 @@
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsdhsdb&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=tlsdhsdb&show_icons=true">
 
 ![Onyoo's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=tlsdhsdb)
 
