@@ -52,10 +52,7 @@
 ![Onyoo's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=tlsdhsdb)
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsdhsdb)](https://solved.ac/tlsdhsdb)
-</div> 
+
  
 
 
