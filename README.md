@@ -49,8 +49,6 @@
 <div align=center>
 	<br>
 
-![Onyoo's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=tlsdhsdb)
-
 <br>
 
  
