@@ -40,9 +40,6 @@
 	<a href="https://velog.io/@dhsdb02">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="mailto:onyoo972@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
 	<br>
 </div>
 <div align=center>
