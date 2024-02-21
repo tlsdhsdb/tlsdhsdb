@@ -34,7 +34,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://dev-oy.notion.site/83045dd0e3b04d43a5dc8fd1cceda8d4">
+	<a href="https://dev-oy.notion.site/">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="https://velog.io/@dhsdb02">
