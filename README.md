@@ -39,11 +39,6 @@
 	</a>
 	<br>
 </div>
-<div align=center>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tlsdhsdb)](https://solved.ac/tlsdhsdb)
-
-<br>
 
 
  
